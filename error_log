@@ -1,0 +1,8 @@
+[07-Nov-2024 11:09:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/citylim0/public_html/wp-content/themes/brittmillerspace/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/citylim0/public_html/wp-content/themes/brittmillerspace/404.php on line 10
+[08-Nov-2024 09:13:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/citylim0/public_html/wp-content/themes/brittmillerspace/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/citylim0/public_html/wp-content/themes/brittmillerspace/404.php on line 10
